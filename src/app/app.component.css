@@ -1,0 +1,6 @@
+@media(max-width: 575px) {
+    .margin_personalized {
+        margin-top: 0px !important;
+        margin: 10px;
+    }
+}
